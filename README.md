@@ -1,4 +1,4 @@
-# datathon-2021
+# datathon-2022
 loan application outcome predictor
 citations:
 https://hands-on.cloud/implementation-of-random-forest-algorithm-using-python/#h-exploring-and-visvualizing-dataset
